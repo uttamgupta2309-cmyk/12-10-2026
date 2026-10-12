@@ -1,0 +1,9 @@
+#include <stdio.in>
+int main ()
+{
+    int x=10; 
+    int y=20;
+    printf("enter a no");
+    scanf("%d/",&x=y);
+    return 0;
+}
